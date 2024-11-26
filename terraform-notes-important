@@ -1,0 +1,9 @@
+Terraform notes:-
+============
+***Terraform: Popular infrastucrure as a code
+***Ansible: Configuration management or Configuration as a code
+***Version control git: If you keep code in git you can maintain the history and you can get back previous versions.
+***Consisten infrastucture: Same code will in all environment, So infrastucter is consistent in all environment.
+***Automated infro--CRUD(Create, Read, Update, Delete)
+***Cost optimisation: Create when required and stop or delete when not required.
+***Automatic dependancy resource: we can create resource, Terraform will take care of dependancy managemnet .
